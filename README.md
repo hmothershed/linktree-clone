@@ -1,5 +1,6 @@
 # Linktree Clone
 This is a simple Linktree clone created using HTML, CSS, and JavaScript. It allows you to showcase multiple links to your social media profiles or websites in a single location, similar to Linktree.
+![Linktree Clone Screenshot](screenshot.png)
 
 ## Features
 
