@@ -11,7 +11,9 @@ This is a simple Linktree clone created using HTML, CSS, and JavaScript. It allo
 
 ## Demo
 Here's a live demo of the Linktree Clone
-![Linktree Clone Demo](screen-recording.mp4)
+https://github.com/hmothershed/linktree-clone/assets/112271331/4c284985-3fcf-4e54-bc88-d1bc70d97051
+
+
 
 ## Customization
 To customize the Linktree Clone for your own use, you can modify the following files:
