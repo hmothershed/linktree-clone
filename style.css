@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url('https://i.pinimg.com/736x/e2/dc/e3/e2dce3c879182c1b1dd54d449f0983b7.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+}
+
+.profile-pic{
+    border-radius: 50%;
+}
+
+.profile-name{
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+.btn{
+    border-radius: 10px;
+    border: 1px solid white;
+    background-color: white;
+    color: black;
+    display: flex;
+    height: 55px;
+    justify-content: center;
+    max-width: 500px;
+    width: 100%;
+    margin-bottom: 20px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    align-items: center;
+    transition: transform .4s;
+}
+
+.btn:hover{
+    background: transparent;
+    color: white;
+    transform: scale(1.1);
+}
+
+.icon{
+    width: 20px;
+    position: absolute;
+    left: 10px;
+}
+
+.btn:hover .icon{
+    filter: brightness(0)invert(1); /* change the color of the icon to white */
+}
+
+footer{
+    text-align: center;
+    padding: 5px;
+    background-color: #abbaba;
+    font-size: 10px;
+}
