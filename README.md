@@ -9,6 +9,10 @@ This is a simple Linktree clone created using HTML, CSS, and JavaScript. It allo
 - Open links in new tabs
 - Responsive design for various screen sizes
 
+## Demo
+Here's a live demo of the Linktree Clone
+![Linktree Clone Demo](screen-recording.mp4)
+
 ## Customization
 To customize the Linktree Clone for your own use, you can modify the following files:
 
